@@ -26,3 +26,5 @@ A lot of metrics provided from other repositories are utilized in this work. Mos
 Information about the utilized repositories and version is documented in the thesis.
 
 As this code is the result of rapid prototyping and execution on multiple servers it is not perfectly structured and contains alot of Code duplicates. However, if anybody wants to understand or reuse any part of the Code, feel free to ask for advice. We are happy if this project provides benefit to somebody.
+
+Data needs to be added!
